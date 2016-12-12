@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					58B76E381DFE826800550582 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 49MUJR22T8;
 						ProvisioningStyle = Automatic;
 					};
 					58B76E541DFE826900550582 = {
@@ -428,6 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 49MUJR22T8;
 				INFOPLIST_FILE = DvFengJiao/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sy.DvFengJiao;
@@ -439,6 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 49MUJR22T8;
 				INFOPLIST_FILE = DvFengJiao/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sy.DvFengJiao;
